@@ -1,0 +1,53 @@
+← [API索引](Api-Index) ← [命名空间索引](Namespace-Index) ← [BoundingBoxD](VRageMath.BoundingBoxD)
+
+### 概要
+
+```csharp
+public double DistanceSquared(Vector3D point)
+```
+
+
+
+### 返回
+
+[double](https://docs.microsoft.com/en-us/dotnet/api/System.Double?view=netframework-4.6)
+
+
+
+### 参数
+
+* [Vector3D](VRageMath.Vector3D) point
+### 概要
+
+```csharp
+public double DistanceSquared(ref Vector3D point)
+```
+
+
+
+### 返回
+
+[double](https://docs.microsoft.com/en-us/dotnet/api/System.Double?view=netframework-4.6)
+
+
+
+### 参数
+
+* [Vector3D](VRageMath.Vector3D) point
+### 概要
+
+```csharp
+public double DistanceSquared(ref BoundingBoxD other)
+```
+
+
+
+### 返回
+
+[double](https://docs.microsoft.com/en-us/dotnet/api/System.Double?view=netframework-4.6)
+
+
+
+### 参数
+
+* [BoundingBoxD](VRageMath.BoundingBoxD) other

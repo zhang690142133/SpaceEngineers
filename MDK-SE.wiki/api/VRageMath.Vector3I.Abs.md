@@ -1,0 +1,25 @@
+← [API索引](Api-Index) ← [命名空间索引](Namespace-Index) ← [Vector3I](VRageMath.Vector3I)
+
+### 概要
+
+```csharp
+public static Vector3I Abs(Vector3I value)
+```
+
+### 返回
+
+[Vector3I](VRageMath.Vector3I)
+
+### 参数
+
+* [Vector3I](VRageMath.Vector3I) value
+### 概要
+
+```csharp
+public static void Abs(ref Vector3I value, out Vector3I result)
+```
+
+### 参数
+
+* [Vector3I](VRageMath.Vector3I) value
+* [Vector3I](VRageMath.Vector3I) result

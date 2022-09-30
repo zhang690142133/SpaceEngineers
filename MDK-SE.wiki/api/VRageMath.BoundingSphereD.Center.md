@@ -1,0 +1,14 @@
+← [API索引](Api-Index) ← [命名空间索引](Namespace-Index) ← [BoundingSphereD](VRageMath.BoundingSphereD)
+
+### 概要
+
+```csharp
+public Vector3D Center
+```
+
+The center point of the sphere.
+
+### 返回
+
+[Vector3D](VRageMath.Vector3D)
+

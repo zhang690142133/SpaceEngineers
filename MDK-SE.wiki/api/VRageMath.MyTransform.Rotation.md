@@ -1,0 +1,12 @@
+← [API索引](Api-Index) ← [命名空间索引](Namespace-Index) ← [MyTransform](VRageMath.MyTransform)
+
+### 概要
+
+```csharp
+public Quaternion Rotation
+```
+
+### 返回
+
+[Quaternion](VRageMath.Quaternion)
+
